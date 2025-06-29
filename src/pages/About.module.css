@@ -1,0 +1,23 @@
+/* src/pages/About.module.css */
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.title {
+  color: #000000;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #2600ff;
+  padding-bottom: 8px;
+}
+
+.paragraph {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
